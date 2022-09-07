@@ -1,3 +1,5 @@
+console.log("OK");
+
 let title = document.querySelector("title")
 title.innerHTML = "My Projects"
 
